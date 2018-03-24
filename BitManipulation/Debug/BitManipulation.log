@@ -1,0 +1,15 @@
+﻿  image.c
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(38): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: Siehe Deklaration von "fopen"
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: Siehe Deklaration von "fopen"
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(81): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(103): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(124): warning C4013: "sqrt" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(136): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(140): warning C4244: "=": Konvertierung von "double" in "unsigned char", möglicher Datenverlust
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(141): warning C4244: "=": Konvertierung von "double" in "unsigned char", möglicher Datenverlust
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(142): warning C4244: "=": Konvertierung von "double" in "unsigned char", möglicher Datenverlust
+c:\users\mwape\source\repos\bitmanipulation\bitmanipulation\image.c(135): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "double" auf.
+  BitManipulation.vcxproj -> C:\Users\Mwape\source\repos\BitManipulation\Debug\BitManipulation.exe
